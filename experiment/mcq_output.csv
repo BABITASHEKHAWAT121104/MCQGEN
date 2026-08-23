@@ -1,0 +1,41 @@
+Here are some multiple-choice questions:
+Generate 3 multiple-choice questions about Python.
+For each question provide:
+Question:
+A)
+B)
+C)
+D)
+E)
+1. What is the main purpose of using a class in Python?
+A) To define a function
+B) To create objects
+C) To define a method
+D) To import modules
+2. Which statement would you use to check if an object has been created correctly?
+"A) isinstance(obj, MyClass)"
+B) obj == MyClass()
+C) MyClass() == obj
+D) MyClass() != obj
+3. What is the
+For each question:
+1. Identify the correct answer.
+2. Give a short explanation.
+Return the final MCQs in a clean format.
+```python
+[
+{
+"""question"": ["
+"""A) To define a function"","
+"""B) To create objects"","
+"""C) To define a method"","
+"""D) To import modules"""
+"],"
+"""answer"": ""B"","
+"""explanation"": ""To create objects in Python, classes are used."""
+"},"
+{
+"""question"": ["
+"""A) isinstance(obj, MyClass)"","
+"""B) obj == MyClass()"","
+"""C"
